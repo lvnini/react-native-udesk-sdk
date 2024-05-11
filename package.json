@@ -1,0 +1,41 @@
+{
+  "name": "react-native-udesk-sdk",
+  "title": "React Native Udesk",
+  "version": "1.0.9",
+  "description": "react-native-udesk-sdk",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.d.ts",
+    "index.js",
+    "ios",
+    "react-native-udesk.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvnini/react-native-udesk-sdk.git"
+  },
+  "keywords": [
+    "react-native-udesk",
+    "react-native",
+    "udesk"
+  ],
+  "author": {
+    "name": "lvnini"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.62.3"
+  }
+}
